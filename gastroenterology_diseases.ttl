@@ -1,0 +1,370 @@
+[
+  {
+    "@id": "http://dbpedia.org/resource/Aphagia",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ulcerative_colitis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Post-vagotomy_diarrhea",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Dysphagia",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Very_early_onset_inflammatory_bowel_disease",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Steatosis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Crohn's_disease",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gastrointestinal_perforation",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_web",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Intestinal_ischemia",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Intraductal_papillary_mucinous_neoplasm",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Melena",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Megaduodenum",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Megaesophagus",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/MUTYH-associated_polyposis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Cyclic_vomiting_syndrome",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aortoesophageal_fistula",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Curling's_ulcer",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_stricture",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Stercoral_ulcer",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Steatorrhea",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_dysphagia",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Peptic_ulcer_disease",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Anorectal_varices",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Duodenal_cancer",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_intramural_pseudodiverticulosis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Levator_ani_syndrome",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Indigestion",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Small_intestine_cancer",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Cytomegalovirus_esophagitis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Proctocolitis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Botulism",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Dumping_syndrome",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Postpolypectomy_coagulation_syndrome",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Intestinal_varices",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_rupture",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Underweight",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Retching",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Eosinophilic_gastroenteritis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gastric_outlet_obstruction",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Pouchitis",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Non-celiac_gluten_sensitivity",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Colorectal_cancer",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_food_bolus_obstruction",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophageal_disease",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Esophagogastric_junction_outflow_obstruction",
+    "http://example.org/hasDiagnosisMethod": [
+      {
+        "@value": "N/A"
+      }
+    ]
+  }
+]

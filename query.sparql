@@ -1,0 +1,16 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?university ?studentsCount WHERE {
+    ?university rdf:type dbo:University ;
+                dbo:country dbr:Ukraine ;
+                dbo:numberOfStudents ?studentsCount .
+}
+ORDER BY DESC(?studentsCount)
+LIMIT 1
+
+// Вивід
+// university: http://dbpedia.org/resource/Igor_Sikorsky_Kyiv_Polytechnic_Institute
+// studentsCount: "36000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
