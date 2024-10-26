@@ -1,265 +1,129 @@
 [
   {
-    "@id": "http://dbpedia.org/resource/Aphagia",
+    "@id": "http://dbpedia.org/resource/Cecal_bascule",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Ulcerative_colitis",
+    "@id": "http://dbpedia.org/resource/Burning_mouth_syndrome",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Post-vagotomy_diarrhea",
+    "@id": "http://dbpedia.org/resource/Astrovirus",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Dysphagia",
+    "@id": "http://dbpedia.org/resource/Phycomycosis",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Very_early_onset_inflammatory_bowel_disease",
+    "@id": "http://dbpedia.org/resource/Boas'_point",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Steatosis",
+    "@id": "http://dbpedia.org/resource/Phytobezoar",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Crohn's_disease",
+    "@id": "http://dbpedia.org/resource/Enteroenteric_circulation",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Gastrointestinal_perforation",
+    "@id": "http://dbpedia.org/resource/Leaky_gut_syndrome",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Esophageal_web",
+    "@id": "http://dbpedia.org/resource/Caustic_ingestion",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Intestinal_ischemia",
+    "@id": "http://dbpedia.org/resource/Glycogen_storage_disease_type_0",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Intraductal_papillary_mucinous_neoplasm",
+    "@id": "http://dbpedia.org/resource/Klemm's_sign",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Melena",
+    "@id": "http://dbpedia.org/resource/Checkpoint_inhibitor_induced_colitis",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "http://dbpedia.org/resource/Colonoscopy"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Megaduodenum",
+    "@id": "http://dbpedia.org/resource/Hampton's_line",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Megaesophagus",
+    "@id": "http://dbpedia.org/resource/Sentinel_loop",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/MUTYH-associated_polyposis",
+    "@id": "http://dbpedia.org/resource/Proton-pump_inhibitor",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Cyclic_vomiting_syndrome",
+    "@id": "http://dbpedia.org/resource/Rectal_discharge",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Aortoesophageal_fistula",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Curling's_ulcer",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophageal_stricture",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Stercoral_ulcer",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Steatorrhea",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophageal_dysphagia",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Peptic_ulcer_disease",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Anorectal_varices",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Duodenal_cancer",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophageal_intramural_pseudodiverticulosis",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Levator_ani_syndrome",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Indigestion",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Small_intestine_cancer",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Cytomegalovirus_esophagitis",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Proctocolitis",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Botulism",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Dumping_syndrome",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
@@ -267,103 +131,71 @@
     "@id": "http://dbpedia.org/resource/Postpolypectomy_coagulation_syndrome",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Intestinal_varices",
+    "@id": "http://dbpedia.org/resource/Rotavirus",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Esophageal_rupture",
+    "@id": "http://dbpedia.org/resource/Buried_bumper_syndrome",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "http://dbpedia.org/resource/Upper_endoscopy"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Underweight",
+    "@id": "http://dbpedia.org/resource/Pseudopolyps",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Retching",
+    "@id": "http://dbpedia.org/resource/Dolichocolon",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Eosinophilic_gastroenteritis",
+    "@id": "http://dbpedia.org/resource/Lymphocytic_esophagitis",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "http://dbpedia.org/resource/Biopsy"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Gastric_outlet_obstruction",
+    "@id": "http://dbpedia.org/resource/Rotaviral_gastroenteritis",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Pouchitis",
+    "@id": "http://dbpedia.org/resource/Astroviridae",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   },
   {
-    "@id": "http://dbpedia.org/resource/Non-celiac_gluten_sensitivity",
+    "@id": "http://dbpedia.org/resource/Cystica_profunda",
     "http://example.org/hasDiagnosisMethod": [
       {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Colorectal_cancer",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophageal_food_bolus_obstruction",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophageal_disease",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
-      }
-    ]
-  },
-  {
-    "@id": "http://dbpedia.org/resource/Esophagogastric_junction_outflow_obstruction",
-    "http://example.org/hasDiagnosisMethod": [
-      {
-        "@value": "N/A"
+        "@value": "Not available"
       }
     ]
   }
