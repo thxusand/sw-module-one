@@ -4,25 +4,10 @@ from rdflib import Graph, URIRef, Literal
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
 sparql.setQuery("""
-    SELECT ?disease ?diseaseLabel ?diagnosis ?diagnosisLabel
-    WHERE {
-      ?disease rdf:type dbo:Disease ;
-               dbo:wikiPageWikiLink dbr:Gastroenterology .
-               
-      OPTIONAL { ?disease dbo:diagnosis ?diagnosis .
-            ?diagnosis rdfs:label ?diagnosisLabel .
-            FILTER (lang(?diagnosisLabel) = "en") }
-      
-      OPTIONAL { ?disease dbp:diagnosis ?diagnosisAlt .
-             ?diagnosisAlt rdfs:label ?diagnosisLabelAlt .
-             FILTER (lang(?diagnosisLabelAlt) = "en") }
-
-      OPTIONAL { ?disease dbo:medicalProcedure ?medicalProcedure .
-             ?medicalProcedure rdfs:label ?procedureLabel .
-             FILTER (lang(?procedureLabel) = "en") }
-    
-      ?disease rdfs:label ?diseaseLabel . 
-      FILTER (lang(?diseaseLabel) = "en")
+    SELECT ?disease ?diagnosis ?symptoms WHERE {
+        ?disease dbo:wikiPageWikiLink dbc:Gastroenterology ;
+                 rdf:type dbo:Disease .
+        OPTIONAL { ?disease dbo:medicalDiagnosis ?diagnosis }
     }
     LIMIT 50
 """)
@@ -34,10 +19,10 @@ graph = Graph()
 
 for result in results["results"]["bindings"]:
     disease = result["disease"]["value"]
-    diagnosis_method = result.get("diagnosisMethod", {}).get("value", "N/A")
+    diagnosis = result.get("diagnosis", {}).get("value", "Not available")
+    symptoms = result.get("symptoms", {}).get("value", "Not available")
 
-    graph.add((URIRef(disease), URIRef("http://example.org/hasDiagnosisMethod"), Literal(diagnosis_method)))
+    graph.add((URIRef(disease), URIRef("http://example.org/hasDiagnosisMethod"), Literal(diagnosis)))
+    print(f"Disease: {disease}, Diagnosis Method: {diagnosis}")
 
-    print(f"Disease: {disease}, Diagnosis Method: {diagnosis_method}")
-
-graph.serialize("gastroenterology_diseases_extended.ttl", format="json-ld")
+graph.serialize("gastroenterology_diseases.ttl", format="json-ld")
